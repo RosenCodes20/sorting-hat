@@ -22,3 +22,4 @@ while name != "Welcome!":
     name = input()
 else:
     print("Welcome to Hogwarts.")
+print("wow")
